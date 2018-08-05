@@ -1,0 +1,39 @@
+.centro
+{
+	width: 46%;
+	margin-left: 15%;
+	margin-right:15%; 
+	
+}
+
+.contenedor
+{
+	
+	width: 150%;
+	border: 1px solid;
+	border-color: #FFFFFF;
+}
+
+p{
+	margin-left : 4%;
+	margin-right: 4%;
+}
+h4{
+	margin-left:4%;
+}
+li{
+	margin-left:4%;
+}
+html {
+	background-color: #345676;
+}
+div
+{
+	background: white;
+}
+h3{
+	margin-left: 5%;
+}
+.ban{
+
+}
